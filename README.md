@@ -1,8 +1,8 @@
 # Amaze Maze
 
 A teeny-tiny app which creates a random Perfect Maze and then solve it using 2 algorithms : 
-  1) Depth First Search
-  2) Breath First Search
+  1) Depth First Search : 
+  2) Breath First Search :
 
 Technologies Used : Pygame 
 
@@ -44,8 +44,11 @@ python3 solve_maze.py
 python3 solve_maze.py bfs
 ```
 
+## Final Results : 
+
 ![bfs](https://user-images.githubusercontent.com/31930832/119252518-68bdf700-bbca-11eb-91ea-2d634d6a09e6.gif)
+(bfs)
 
-![Uploading dfs.gif…]()
-
+![dfs](https://user-images.githubusercontent.com/31930832/119252683-306ae880-bbcb-11eb-8c8a-0f8ba4e38d59.gif)
+(dfs)
 
