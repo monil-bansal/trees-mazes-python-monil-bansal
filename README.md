@@ -46,5 +46,6 @@ python3 solve_maze.py bfs
 
 ![bfs](https://user-images.githubusercontent.com/31930832/119252518-68bdf700-bbca-11eb-91ea-2d634d6a09e6.gif)
 
+![Uploading dfs.gif…]()
 
 
